@@ -1,3 +1,10 @@
+/*
+File Name: Input
+Author: Jim Li
+Date Created: Feb. 17, 2026
+Date Last Modified: Mar. 29, 2026
+*/
+
 import java.util.Scanner;
 public class PracticeProblem {
 
